@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Project name="Nokia5110">
+        <File name="src\Nokia5110.cpp" />
+        <File name="src\Nokia5110.h" />
+        <File name="library.properties" />
+        <File name="Nokia5110" />
+        <File name="keywords.txt" />
+    </Project>
+    <Project name="MPU6050">
+        <File name="C:\md\Arduino\libraries\MPU6050\keywords.txt" />
+        <File name="C:\md\Arduino\libraries\MPU6050\library.properties" />
+        <File name="C:\md\Arduino\libraries\MPU6050\src\MPU6050.cpp" />
+        <File name="C:\md\Arduino\libraries\MPU6050\src\MPU6050.h" />
+    </Project>
+</NotepadPlus>

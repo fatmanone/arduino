@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Arduino GLCD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Nokia5110	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Character	KEYWORD2
+Clear	KEYWORD2
+ClearGoToBegin	KEYWORD2
+GotoXY	KEYWORD2
+WriteString	KEYWORD2
+Write	KEYWORD2
+Initialize	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
